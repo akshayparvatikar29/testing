@@ -1,0 +1,10 @@
+name: server
+title: Test nginx version
+maintainer: AkshayParvatikar
+copyright: Akshay
+copyright_email: akshay@chef.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.2
+supports:
+  platform: os
